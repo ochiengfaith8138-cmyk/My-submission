@@ -7,7 +7,7 @@
   -The main file that is created by the gcc is a compiled source code and in machine form.
   -The main file can be openned in my editor but i cannot understand what it mean but it is understable by the machine.
 ## 3 The meaning of JIT and why it makes JavaScript faster
- -JIT(Just-In-T)-it is used to translate code such as bytecode,intermediate language into machone code while the program is running.
+ -JIT(Just-In-T)-it is used to translate code such as bytecode,intermediate language into machine code while the program is running.
  -it makes JavaScript faster by compiling frequently executed code into machine code at runtime,allowing the CPU to execute it directly instead of interpreting it line by line. 
 ## 4 Difference betweeen statically typed language and dynamically typed language.and when the type error is found.
  -In statically typed languages the variable types are checked before the program is executed. Therefore the errrors are found while you write the code.
